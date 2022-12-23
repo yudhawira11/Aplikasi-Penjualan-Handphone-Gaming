@@ -1,8 +1,6 @@
-# ||+++++++++++++++++++++++++++||
-# || Nama  : Yudha Wira Dharma ||
-# || NIM   : 2200018073        ||
-# || Kelas : B                 ||
-# ||+++++++++++++++++++++++++++||
+# || Nama  : Yudha Wira Dharma 
+# || NIM   : 2200018073      
+# || Kelas : B              
 
 # Program Aplikasi-Penjualan-Handphone-Gaming
 
